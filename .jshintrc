@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "$": true,
+    "console": true,
+    "jQuery": true,
+    "location": true
+  }
+}
